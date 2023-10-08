@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\bin\Debug\Computer_graphics_1.exe.config
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\bin\Debug\Computer_graphics_1.exe
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\bin\Debug\Computer_graphics_1.pdb
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.Form1.resources
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.exe
+C:\Users\Admin\source\repos\Computer_graphics_1\Computer_graphics_1\obj\Debug\Computer_graphics_1.pdb
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\bin\Debug\Computer_graphics_1.exe.config
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\bin\Debug\Computer_graphics_1.exe
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\bin\Debug\Computer_graphics_1.pdb
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.Form1.resources
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.exe
+C:\Users\Admin\source\repos\Computer_graphics_1 — копия\Computer_graphics_1\obj\Debug\Computer_graphics_1.pdb
