@@ -91,6 +91,7 @@ namespace Computer_graphics_1
 
         private float alfa = 0;
 
+
         public Pikachu(PictureBox pictureBox)
         {
             this.pictureBox = pictureBox;
@@ -113,7 +114,7 @@ namespace Computer_graphics_1
             figureFrontArrays = CopyArray(figureFrontArraysBase);
             figureBackArrays = CopyArray(figureBackArraysBase);
 
-            // Инициализация начальных координат соединений точек по оси Z для головы и ног
+            // Инициализация начальных координат соединений точек по оси Z
             zAxisConnectionsFront = new Point3D[bodyF.Length + headF.Length + leftLegF.Length + rightLegF.Length + mouthF.Length +
                 rightEyeF.Length + leftEyeF.Length + nosF.Length + rightArmF.Length + leftArmF.Length + leftChickF.Length + 
                 rightChickF.Length + leftEarF.Length + rightEarF.Length + tailF.Length];
@@ -469,6 +470,8 @@ namespace Computer_graphics_1
             };
 
         }
+
+
 
         public void Draw()
         {
@@ -1130,44 +1133,10 @@ namespace Computer_graphics_1
                 }
             }
 
-            //for (int i = 0; i < figureFrontArrays.Length; i++)
-            //{
-            //    for (int j = 0; j < figureFrontArrays[i].Length; j++)
-            //    {
-            //        var point = figureFrontArrays[i][j];
-            //        ///poly[i][1] + l_kabine1 * cos(alfa1) * poly[i][3];
-            //        ///poly[i][2] + l_kabine1 * sin(alfa1) * poly[i][3];
-
-            //        float isoX = (float)(point.X + point.Z * Math.Cos(alfa) / 2);
-            //        float isoY = (float)(point.Y + point.Z * Math.Cos(alfa) / 2);
-            //        figureFrontArrays[i][j] = new Point3D(isoX, isoY, point.Z / 2);
-
-            //        //float isoX = (float)((point.X - point.Y) * Math.Cos(alfa));
-            //        //float isoY = (float)((point.X + point.Y) * Math.Sin(alfa) - point.Z);
-            //        //figureFrontArrays[i][j] = new Point3D(isoX, isoY, point.Z / 2);
-            //    }
-            //}
-
-            //for (int i = 0; i < figureBackArrays.Length; i++)
-            //{
-            //    for (int j = 0; j < figureBackArrays[i].Length; j++)
-            //    {
-            //        var point = figureBackArrays[i][j];
-            //        float isoX = (float)(point.X + point.Z * Math.Cos(alfa) / 2);
-            //        float isoY = (float)(point.Y + point.Z * Math.Cos(alfa) / 2);
-            //        figureBackArrays[i][j] = new Point3D(isoX, isoY, point.Z / 2);
-            //    }
-            //}
-
-            // Обновите координаты соединений точек по оси Z
             UpdateZAxisConnections();
 
             Draw();
 
-            //if (alfa >= 360)
-            //{
-            //    alfa = 0;
-            //}
         }
 
         private void CopyBaseCoordinatesToFigures()
